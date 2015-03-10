@@ -1,0 +1,48 @@
+
+Current table for 1
+
+Our distance vector and routes:
+    dst    |    0    1    2    3
+------------------------------------
+   route |    0    1    2   -1
+   cost   |    1    0    1  999
+
+Current table for 1
+
+Our distance vector and routes:
+    dst    |    0    1    2    3
+------------------------------------
+   route |    0    1    2    0
+   cost   |    1    0    1    8
+
+Current table for 1
+
+Our distance vector and routes:
+    dst    |    0    1    2    3
+------------------------------------
+   route |    0    1    2    0
+   cost   |    1    0    1    8
+
+Current table for 1
+
+Our distance vector and routes:
+    dst    |    0    1    2    3
+------------------------------------
+   route |    0    1    2    2
+   cost   |    1    0    1    3
+
+Current table for 1
+
+Our distance vector and routes:
+    dst    |    0    1    2    3
+------------------------------------
+   route |    0    1    2    2
+   cost   |    1    0    1    3
+
+Current table for 1
+
+Our distance vector and routes:
+    dst    |    0    1    2    3
+------------------------------------
+   route |    0    1    2    2
+   cost   |    1    0    1    3
